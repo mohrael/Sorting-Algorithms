@@ -1,0 +1,90 @@
+Algorithm: Insertion Sort
+Number of comparisons: 4
+Running Time: 1
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
+Algorithm: Selection Sort
+Number of comparisons: 4
+Running Time: 2
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
+Algorithm: Bubble Sort
+Number of comparisons: 4
+Running Time: 1
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
+Algorithm: Shell Sort
+Number of comparisons: 4
+Running Time: 1
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
+Algorithm: Merge Sort
+Number of comparisons: 8
+Running Time: 6
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
+Algorithm: Quick Sort
+Number of comparisons: 14
+Running Time: 1
+Ali
+78697
+3.5
+Mariam
+3541
+3.7
+Mohamed Kamal
+69712
+2.2
+Sara Ahmed
+97848
+3.1
