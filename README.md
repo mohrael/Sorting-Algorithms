@@ -1,8 +1,5 @@
 # 📚 Data Structures – Sorting Algorithms in C++
 
-### 👨‍💻 Created by: mohrealrafet  
-✉️ Contact: mohrealrafet@gmail.com
-
 ---
 
 ## 📋 Overview
